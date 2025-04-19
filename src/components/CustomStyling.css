@@ -1,0 +1,8 @@
+.login-page {
+  background-image: url("../assets/background.png"); /* make sure the path matches */
+  background-size: cover; /* Makes the image cover the entire area */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevents tiling */
+  height: 100vh; /* Ensures it takes full viewport height */
+  position: relative;
+}
